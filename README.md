@@ -1,2 +1,2 @@
-# Horiseon-Website-optimization
-Horiseon is a marketing agency, I have altered their website code to enable their website to be efficient and optimised for search engines
+# Horiseon-seo-optimization
+Showcasing the transformation of Horiseon's marketing site to meet accessibility standards and enhance search engine visibility.
